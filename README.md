@@ -5,6 +5,7 @@ smtp-per-user
 Возможно применять, когда сервер отправки почты требует авторизацию
 отправителя (например smtp.yandex.ru).
 
+smtp-per-user
 =============
 This module adds the ability to select the user to whom include
 specific smtp settings.
