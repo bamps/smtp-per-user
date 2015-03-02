@@ -10,7 +10,7 @@ smtp-per-user
 отправителя (например smtp.yandex.ru).
 
 После установки модуля нужно добавить Read Access к ir.mail_server
-для нужных групп через интерфейс OpenERP:
+для нужных групп через интерфейс OpenERP / Odoo:
 Database Structure -> Models -> ir.mail_server -> Access Rights.
 
 smtp-per-user
@@ -25,5 +25,5 @@ Possible to use when smtp server requires
 sender authentification (e.g. smtp.yandex.ru).
 
 After setup you should add Read Access to ir.mail_server for relevant
-groups via OpenERP interface:
+groups via OpenERP / Odoo interface:
 Database Structure -> Models -> ir.mail_server -> Access Rights.
