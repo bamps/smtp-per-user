@@ -1,5 +1,7 @@
 smtp-per-user
 =============
+**Не работает с современными версиями Odoo.**
+
 Модуль добавляет возможность выбрать пользователя, к которому
 относятся конкретные настройки smtp сервера.
 
@@ -15,6 +17,8 @@ Database Structure -> Models -> ir.mail_server -> Access Rights.
 
 smtp-per-user
 =============
+**Not compatible with recent Odoo versions**
+
 This module adds the ability to select the user to whom include
 specific smtp settings.
 
